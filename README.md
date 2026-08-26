@@ -63,11 +63,15 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 
 <div align="center">
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanftouni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+<img src="https://github-stats-alpha.vercel.app/api?username=hassanftouni&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Hassan's GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassanftouni&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanftouni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://nirzak-streak-stats.vercel.app?user=hassanftouni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hassanftouni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -77,7 +81,7 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/hassanftouni/hassanftouni/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/hassanftouni/hassanftouni/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
