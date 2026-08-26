@@ -67,7 +67,7 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app?user=hassanftouni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=hassanftouni&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
