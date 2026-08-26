@@ -63,11 +63,11 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 
 <div align="center">
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanftouni&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanftouni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hassanftouni&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassanftouni&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanftouni&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanftouni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -77,7 +77,7 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 
 <div align="center">
 
-![Snake animation](https://github.com/hassanftouni/hassanftouni/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/hassanftouni/hassanftouni/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -88,3 +88,4 @@ Completed the **42 Beirut Piscine**, an intensive month-long coding bootcamp bui
 *"Intellectuals solve problems; geniuses prevent them."*
 
 </div>
+
